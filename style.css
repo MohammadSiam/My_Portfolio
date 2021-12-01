@@ -203,7 +203,7 @@ body{
 }
 .navbar{
     /* background-color: #F95759;; */
-    background: linear-gradient(to right, #f857a6, #ff5858);
+    background: linear-gradient(90deg, rgba(2,0,.6,1) 0%,rgba(9,9,121,1)35%,rgba(0,212,255,1) 100%);
 }
 .nav-bar .fa-bars{
     font-size: 35px;
@@ -218,6 +218,9 @@ body{
 }
 .nav-link{
     color: #ffffff !important;
+}
+.resume-btn{
+    background: linear-gradient(90deg, rgba(2,0,.6,1) 0%,rgba(9,9,121,1)35%,rgba(0,212,255,1) 100%);
 }
 .skills-bar p{
     margin-bottom: 6px;
