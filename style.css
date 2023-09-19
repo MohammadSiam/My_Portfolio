@@ -250,7 +250,7 @@ body{
     padding-top: 50px;
     padding-bottom: 30px;
     background: #f9f9f9;
-    margin-bottom: 130px;
+    /* margin-bottom: 130px; */
     height: 70vh;
 }
 .resume h3{
@@ -300,11 +300,12 @@ body{
 } */
 /* Services */
 .services{
-    height: 70vh;
+    height: 80vh;
+    padding: 50px;
     
 }
 .services h1{
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 .services-box{
     background: #f9f9f9;
